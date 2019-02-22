@@ -4,7 +4,7 @@ class Formulario extends Component{
     return (
       <form>
         <div className="form-group">
-          <label>Moneda: </label>
+          <label>Moneda:</label>
           <select className="form-control">
             <option value="" disabled defaultValue>Scegli la moneta</option>
             <option value="USD"> Dollaro </option>
